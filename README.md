@@ -1,3 +1,7 @@
+My assessment demo: link https://allo-inventory-system-tbs6.vercel.app/
+
+My github link: https://github.com/Nandhinideevi02/allo-inventory-system
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
